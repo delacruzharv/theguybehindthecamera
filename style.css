@@ -1,0 +1,45 @@
+body{
+	background-color: #B0C8C5;
+}
+
+
+.header{
+	font-size: 40px;
+	font-family: Graduate;
+	text-align: center;
+}
+
+.name{
+	font-size: 50px;
+	font-family: Aclonica;
+	text-align: center;
+}
+
+.hyperlink{
+	margin-left: auto;
+	margin-right: auto;
+
+}	
+
+.pictures{
+	text-align: center;
+	font-family: Graduate;
+	font-size: 30px;
+	
+
+}
+
+.contacts{
+	text-align: center;
+	font-family: Graduate;
+	font-size: 30px;
+
+
+}
+
+.details{
+	font-size: 30px;
+	font-family: Crete Round;
+
+
+}
